@@ -1,9 +1,9 @@
-Play against the cpu. The cpu will learn from your successes and mistakes. As you play, the score, in the upper right corner, will increase.
+Play against the computer. The computer will learn from your successes and mistakes. As you play, the score, in the upper right corner, will increase.
 The higher the score the better the AI will be. Sometimes the score will not change as you play. That means that you have to test other
-moves maybe even lose on purpose. The AI does not know anything about the rules. The only information hard-coded is that losing is bad, and
-winning and drawing are good. Finally, the AI will only receive information of the endgame configuration, hence aim for creating different
-final outcomes to get a stronger AI.
+moves maybe even lose on purpose.
 
-By about a score of 1000 the AI will not lose if it is starting.
+The AI does not know anything about the rules. The only information hard-coded is that losing is bad, and
+winning and drawing are good. The AI will only receive information of the endgame configuration, therefore aim for creating different
+final outcomes to get a stronger AI.
 
 All information the AI has gathered will be lost by quitting the program.
